@@ -1,7 +1,6 @@
-import Main
 import Library
 import Test.Hspec
- 
+
 main :: IO ()
 main = hspec $ do
  
